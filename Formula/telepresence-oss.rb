@@ -1,6 +1,6 @@
 # This script is generated automatically by the release automation code in the
 # Telepresence repository:
-class Telepresence < Formula
+class TelepresenceOss < Formula
   desc "Local dev environment attached to a remote Kubernetes cluster"
   homepage "https://telepresence.io"
   version "2.20.0"
